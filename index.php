@@ -1,8 +1,7 @@
 <?php
 
+  echo "Dale mundinho!";
 
-	echo "Dale mundinho";
+  echo "Dele dolly";
 
-	echo "sinistro deu ruim";
-	
 ?>
